@@ -1,6 +1,11 @@
 "# Mod12_A1_v2" 
 https://github.com/raisazf/Mod12_A1_v2
 
+Unity 2022.3.13f1
+XR Interaction Toolkit 2.5.2
+XR Plugin Manager 4.4.1
+ProBuilder 5.2
+
 I would recommend to watch my video before attempting to navigate through the maze
 
 https://drive.google.com/file/d/1hhQnHSM1P6YUVZMxd834dy0r-J9lMXsv/view?usp=sharing
