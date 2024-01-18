@@ -14,6 +14,7 @@ https://drive.google.com/file/d/1hhQnHSM1P6YUVZMxd834dy0r-J9lMXsv/view?usp=shari
 The package file is quite large, so I had to upload it to Google Drive:
 https://drive.google.com/file/d/1Nu7hrjQeFBp3mHb-k5jOcz_ax1fTNPPx/view?usp=sharing
 
+Make sure that the space is well lit, otherwise hand tracking will be difficult.
 
 Info from the REASME file
 
