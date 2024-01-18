@@ -16,7 +16,6 @@ https://drive.google.com/file/d/1Nu7hrjQeFBp3mHb-k5jOcz_ax1fTNPPx/view?usp=shari
 
 Make sure that the space is well lit, otherwise hand tracking will be difficult.
 
-Info from the REASME file
 
 For this project, I generated a maze using ProBuilder. For more fun, I covered the walls of the maze with the hedge prefabs. I used Quest Pro, which has pretty reasonable hand tracking. In order to run this app on the headset, under File, select Build And Run.  I hope it'll work on other Quest models.
 
